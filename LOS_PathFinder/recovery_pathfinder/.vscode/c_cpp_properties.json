@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sithija/ros2_ws/install/turtlesim/include/**",
+        "/home/sithija/ros2_ws/install/ssugv_control/include/**",
+        "/home/sithija/ros2_ws/install/slam_toolbox/include/**",
+        "/home/sithija/simulation_ws/install/ssugv_msgs/include/**",
+        "/home/sithija/simulation_ws/install/ssugv_control/include/**",
+        "/home/sithija/simulation_ws/install/slam_toolbox/include/**",
+        "/home/sithija/simulation_ws/install/serial/include/**",
+        "/home/sithija/simulation_ws/install/exploration/include/**",
+        "/home/sithija/simulation_ws/install/collision_handler/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
