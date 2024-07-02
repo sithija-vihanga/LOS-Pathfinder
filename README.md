@@ -1,6 +1,13 @@
 <div style="text-align: center;">
 
+
+
+
+
 ## **<u>RECOVERY</u>Y <u>PATHFINDER PACKAGE CONFIGURATIONS</u>**
+
+https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/415384c3-12f4-4249-9785-9aafbcb68d1c
+
 ![h5dbsdff](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/dd133e2f-5cb8-4704-8506-03531cdbbb1d)
 
 
@@ -50,8 +57,7 @@ Uses `navigateToPose` but actual orientation is neglected.
 
 **NOTE:** **After goal succeeded, robot will check the connectivity status and proceed with the state machine. This helps to reduce back and forth movements of robots at the edge of the map.**
 
-**To further improve this we could use key locations path to best coverage point and check connectivity location.**
+**To further improve this we could use key locations path to best coverage point and check connectivity at each location.**
 
 **(Key points/junctions are already calculated by LOSPathfinder module)**
 
-**along the at each**
