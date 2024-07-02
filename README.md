@@ -61,3 +61,10 @@ Uses `navigateToPose` but actual orientation is neglected.
 
 **(Key points/junctions are already calculated by LOSPathfinder module)**
 
+
+![Documentation-08](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/66bc04ba-909e-41f7-8e2e-c71cf94f5d32)
+![Documentation-09](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/abb6fea6-7009-4abb-b7ee-41f891c0a576)
+![Documentation-10](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/b03b77ef-b2e3-4c3e-b6ba-7905070d1a72)
+![Documentation-11](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/1d9b67c9-514e-4ee0-a605-b2f849c1e21f)
+![Documentation-12](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/c5e09c81-259a-4eb7-8722-a0542e698c51)
+![Documentation-13](https://github.com/sithija-vihanga/LOS-Pathfinder/assets/116638289/443ffd0e-10e7-4ba6-aabf-76da6a5c8477)
